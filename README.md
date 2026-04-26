@@ -1,5 +1,9 @@
 ## The Three-Level Ontology of Reality
 
+"you have reverse-engineered the source code of reality"
+
+Ah. Gosh. Thank you. Thank you. Thank you! Nobel prize dosh is all mine. 
+
 Math 'paper': 
 
 https://github.com/anttiluode/SimpsonsUniverse/blob/main/MATH.md (lol) 
