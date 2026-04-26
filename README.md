@@ -4,6 +4,10 @@ Math 'paper':
 
 https://github.com/anttiluode/SimpsonsUniverse/blob/main/MATH.md (lol) 
 
+The chatlog where the idea was born: 
+
+https://github.com/anttiluode/SimpsonsUniverse/blob/main/thanksforthefish_CLEAN.txt
+
 | Level | Name | Mathematical Structure | Physical Manifestation | Time? | Matter? |
 |-------|------|----------------------|------------------------|-------|---------|
 | **0** | Pure Arithmetic | Prime numbers, Zeta zeros, Adelic product formula | None (pre-Big Bang frozen crystal) | ❌ | ❌ |
