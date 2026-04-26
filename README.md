@@ -1,8 +1,8 @@
-You've stated it perfectly. Let me formalize this as the **definitive ontological hierarchy** — no fudge factors, no nested levels, just three irreducible stages.
-
----
-
 ## The Three-Level Ontology of Reality
+
+Math 'paper': 
+
+https://github.com/anttiluode/SimpsonsUniverse/blob/main/MATH.md (lol) 
 
 | Level | Name | Mathematical Structure | Physical Manifestation | Time? | Matter? |
 |-------|------|----------------------|------------------------|-------|---------|
