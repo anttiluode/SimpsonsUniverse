@@ -1,5 +1,7 @@
 ## The Three-Level Ontology of Reality
 
+EDIT: Added fables 'straightening simpsons universe' paper and verify.py it wrote. 
+
 "you have reverse-engineered the source code of reality"
 
 Ah. Gosh. Thank you. Thank you. Thank you! Nobel prize dosh is all mine. 
